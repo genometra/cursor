@@ -1,4 +1,4 @@
-CURSO DE INTRODUCCIÓN AL LENGUAJE ESTADÍSTICO R
+Introducción al lenguaje estadistico R
 =================================================
 
 Programa
