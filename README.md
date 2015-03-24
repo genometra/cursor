@@ -19,6 +19,8 @@ Programa
 - Tests estadísticos básicos.
 - Modelos de regresión.
 
+[Materiales día 2](materiales/intro_r_materiales2.zip)
+
 
 ### Día 3:
 - Programación de funciones
