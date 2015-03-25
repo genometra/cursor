@@ -28,6 +28,8 @@ Programa
 - Bucles 
 - Gestión de ficheros: copiar, renombrar, borrar, ...
 
+[Materiales día 3](materiales/intro_r_materiales3.zip)
+
 
 ### Día 4
 - Gráficas avanzadas con R: colores, símbolos, márgenes, títulos, formatos de imagen...
