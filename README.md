@@ -35,3 +35,5 @@ Programa
 - Gráficas avanzadas con R: colores, símbolos, márgenes, títulos, formatos de imagen...
 - Estadística avanzada: ANOVA, métodos no paramecios, 
 - Ejemplos prácticos de aplicación
+
+[Materiales día 4](materiales/intro_r_materiales4.zip)
